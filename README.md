@@ -12,7 +12,7 @@ Este artigo apresenta o desenvolvimento de uma plataforma simples de gestão de 
 
 ## Instalação
 Passo-a-passo para instalar o projeto:
-1. Clone o repositório: git clone https://github.com/usuario/projeto.git
+1. Clone o repositório:[ git clone https://github.com/usuario/projeto.git](https://github.com/jhessyvi/Gestao-de-tarefas.git)
 2. Navegue até o diretório do projeto: cd projeto
 3. Instale as dependências: npm install
 
